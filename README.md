@@ -4,7 +4,7 @@ Jag heter **Cecilia** och pluggar till webbutvecklare distans via *Mittuniversit
 ____
 Det här kontot använder jag initialt till skoluppgifter.
 
-:computer: :computer: :computer: :computer:
+:computer: :computer: :computer: 
 ____
 
 celi2302@student.miun.se 
