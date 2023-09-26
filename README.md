@@ -7,4 +7,4 @@ Det här kontot använder jag initialt till skoluppgifter.
 :computer: :computer: :computer: :computer:
 ____
 
-[^1]: celi2302@student.miun.se 
+celi2302@student.miun.se 
