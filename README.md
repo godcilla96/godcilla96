@@ -3,6 +3,7 @@
 Jag heter **Cecilia** och pluggar till webbutvecklare distans via *Mittuniversitetet*, men jag bor i Norrbotten.
 ____
 Det här kontot använder jag initialt till skoluppgifter.
+
 :computer: :computer: :computer: :computer:
 ____
 
